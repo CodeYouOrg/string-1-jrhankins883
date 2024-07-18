@@ -35,3 +35,4 @@ Welcome to the Basic String Exercises assignment! This exercise will help you pr
 - Submit your completed `string1.py` file by pushing your repo to GitHub and it will auto grade. 
 
 Happy coding!
+# string-1-jrhankins883
